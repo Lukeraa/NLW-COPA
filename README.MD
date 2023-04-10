@@ -1,9 +1,10 @@
 <h1 align="center">NLW Copa</h1>
 
 <p align="center">
-    <a href="#-Introducao">Introdução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Introducao">Introdução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias-utilizadas">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-backend">BackEnd</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projetoWeb">Projeto web</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projetoMobile">Projeto mobile</a>&nbsp;&nbsp;&nbsp;
 </p>
@@ -67,6 +68,20 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Prisma
 - Tailwind
 - Git e Github
+
+<br/>
+
+---
+
+<br/>
+
+## 💻 Projeto BackEnd
+
+<br/>
+
+<p align="center">
+  <img alt="Preview Site da Web - Lucas da Costa" src="prisma-erd.svg" width="100%">
+</p>
 
 <br/>
 
