@@ -89,12 +89,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <br/>
 
-## 💻 Projeto Web
+## 🌐 Projeto Web
 
 <br/>
 
 <p align="center">
-  <img alt="Preview Site da Web - Lucas da Costa" src="previewSite.png" width="100%">
+  <img alt="Preview Site da Web - Lucas da Costa" src="inicio.png" width="100%">
 </p>
 
 <br/>
@@ -103,7 +103,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <br/>
 
-## 💻 Projeto Mobile
+## 📱 Projeto Mobile
 
 <br/>
 
